@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "uuid": "^10.0.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon index.js"
+  },
+  "name": "log-emit",
+  "version": "1.0.0",
+  "description": "log emitter",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "author": "Binary-Shade",
+  "license": "ISC"
+}
