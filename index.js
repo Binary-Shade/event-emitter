@@ -8,3 +8,5 @@ myEmitter.on('logs', (msg) => {
   logEvents(msg)
 });
 myEmitter.emit('logs', 'log emitted !');
+
+.
